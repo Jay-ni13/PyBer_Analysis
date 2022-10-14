@@ -6,11 +6,11 @@ Utilizing Python, Pandas, and Matplotlib to summarize PyBer's 2019 ride-sharing 
 - Software: Python 3.7.13, Jupyter Notebook 6.4.8
 ## Results
 ### Data Totals
-   When categorized by city type, PyBer's overall ride-share data from 2019 indicates that across 120 urban, suburban, and rural cities, the majority of rides and drivers are located in urban cities, yet the average fare for rides is more expensive in suburban areas than urban areas, and even more expensive in rural areas.
+   When categorized by city type, PyBer's overall ride-share data from 2019 indicates that across 120 urban, suburban, and rural cities, the majority of rides and drivers are located in urban cities, yet the average fare for rides is higher in suburban areas than urban areas, and even more expensive in rural areas.
 
 ![Summary DataFrame](https://github.com/Jay-ni13/PyBer_Analysis/blob/main/Analysis/Summary_DataFrame.png)
 
-   Though there are more drivers than rides requested in urban areas, suburban and rural cities have more rides requested than drivers; while the higher average fare for suburban and rural cities may play a role in the lower number of rides requested in those areas, the higher average fare for drivers offered in those rural and suburban cities prompts the research question: why are there much fewer drivers based in these areas?
+   Though there are one-third more drivers than rides requested in urban areas, suburban and rural cities have one-third less drivers than rides requested; while the higher average fare for suburban and rural cities may play a role in the lower number of rides requested in those areas, the higher average fare for drivers offered in those rural and suburban cities prompts the research question: why are there 4 times as many urban drivers as there are rural drivers(and 3 times as many as suburban drivers)?
 ### Fares Over Time
    Comparison of the total fares made every week in January, Feburary, March, and April of 2019 indicates that while urban cities unquestionably have the highest volume of fares, those fare sums are more impacted by outside influences than rural fares, which maintain a more comparable fare total from week to week.
 
