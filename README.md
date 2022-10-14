@@ -18,14 +18,18 @@ Utilizing Python, Pandas, and Matplotlib to summarize PyBer's 2019 ride-sharing 
 
    Based on this chart, an outside influence(s) caused fares to spike in both urban and suburban cities from late Feburary through early March. Which inspires the following questions:
    
-   -1 What was this influence(s)? 
+   -1 What was this influence(s)?
+   
    -2 Did ride requests in fact increase? or
+   
    -3 Was something else causing fare prices to rise? (i.e. spring break)
       
 ## Summary
    The results of this analysis indicate the presence of disparities among the city types. To address those disparities, we recommend that CEO V. Isualize:
    
-    -1 Investigate the distance rural drivers are requried to travel on average for their rides and how that impacts recruitment of more drivers in those more difficult to reach areas. PyBer should look into offering gas stipends for rural drivers who have above average milage ride requests.
-    -2 Determine the frequency that the circles for urban, suburban, and rural driver travel overlap: how often do they cross paths and how can that intersection be utilized to expand PyBer's overall travel destination options by each driver's base location.
-    -3 Use peak travel times as a potential way to increase base fare for drivers in all three city types.
+   -1 Investigate the distance rural drivers are requried to travel on average for their rides and how that impacts recruitment of more drivers in those more difficult to reach areas. PyBer should look into offering gas stipends for rural drivers who have above average milage ride requests.
+   
+   -2 Determine the frequency that the circles for urban, suburban, and rural driver travel overlap: how often do they cross paths and how can that intersection be utilized to expand PyBer's overall travel destination options by each driver's base location.
+   
+   -3 Use peak travel times as a potential way to increase base fare for drivers in all three city types.
       
